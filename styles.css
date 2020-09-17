@@ -1,11 +1,10 @@
 body{
-	color:#40514E;
+	color:#EAF6F6;
 	margin:0;
 	text-align: center;
 	font-family: 'Merriweather', serif;
 
 }
-
 
 h1{
 
@@ -22,12 +21,15 @@ h2{
 	font-family: 'Montserrat', sans-serif;
 	font-size:2.5rem;
 	font-weight: normal;
-	padding-bottom: 10px;
+	padding-bottom: 50px;
+	font-style: italic;
 }
 
 h3{
 	color:#11999E ;
 	font-family: 'Montserrat', sans-serif;
+	font-style: italic;
+
 
 
 }
@@ -44,9 +46,13 @@ span{
   text-decoration: underline;
 }
 
+p{
+	color: black;
+}
+
 /* TOP CONTAINTER */
 .top{
-  background-color: #b2ebf2;
+  background-color: #a6dcef;
   padding-top: 100px;
 }
 .top-cloud{
@@ -64,11 +70,12 @@ right: 130px;
 margin: 50px 20px;
 }
 .text1{
-margin: auto;
+margin-top: 0px;
 }
 .codeimg{
   float:left;
   margin-left: 30px;
+	margin-right: 30px;
 	width: 25%;
 
 }
@@ -83,7 +90,7 @@ margin: auto;
 .skills{
 
 width: 50%;
-margin-top:100px;
+margin-top:50px;
 margin-right: auto;
 margin-left: auto;
 text-align: left;
@@ -120,18 +127,23 @@ line-height: 2;
 }
 
 .footer{
+
   background-color: #b2ebf2;
-  padding: 20px;
+  padding: 50px;
   color: #40514E;
 }
 .socmedia{
-  color:#66BFBF;
-    margin: 20px; 20px;
+
+	font-size: 20px;
+  color:#63b7af;
+    margin: 30px; 20px;
     text-decoration: none;
+
 }
 .copyright{
   color: white;
 }
-.sirgio{
-margin-top:20px;
+.getintouch{
+	margin-bottom: 0px;
+
 }
