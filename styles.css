@@ -53,7 +53,7 @@ p{
 
 /* TOP CONTAINTER */
 .top{
-  background-color: #a6dcef;
+  background-color: #dcf2ee;
   padding-top: 100px;
 }
 .top-cloud{
@@ -78,6 +78,7 @@ margin-top: 0px;
   margin-left: 30px;
 	margin-right: 30px;
 	width: 25%;
+
 
 }
 .ITimg{
@@ -129,9 +130,9 @@ line-height: 2;
 
 .footer{
 
-  background-color: #b2ebf2;
+  background-color: #368778	;
   padding: 50px;
-  color: #40514E;
+  color: #66BFBF;
 }
 .socmedia{
 
@@ -139,10 +140,13 @@ line-height: 2;
   color:#63b7af;
     margin: 30px; 20px;
     text-decoration: none;
+		font-style: italic;
+		font-family: 'Montserrat', sans-serif;
 
 }
 .copyright{
   color: white;
+	font: 10px;
 }
 .getintouch{
 	margin-bottom: 0px;
