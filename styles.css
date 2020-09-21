@@ -135,19 +135,23 @@ line-height: 2;
 
 .footer{
 
-  background-color: #368778	;
+  background-color: #a3d2ca	;
   padding: 50px;
   color: #66BFBF;
 }
 .socmedia{
 
 	font-size: 20px;
-  color:#63b7af;
+  	color:#63b7af;
     margin: 30px; 20px;
     text-decoration: none;
 		font-style: italic;
 		font-family: 'Montserrat', sans-serif;
+		font-weight: bold;
 
+}
+.socmedia:hover{
+    color:whitesmoke;
 }
 .copyright{
   color: white;
